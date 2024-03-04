@@ -1,0 +1,148 @@
+/* Button Style */
+  
+button {
+  border-style: none;
+  border-color:#e8ecf2 ;
+  border-radius: 9999px;
+border-width:0.75px;
+  padding: 20px;
+  background-color:#363636;
+  color:#73787d;
+  box-shadow: -5px -5px 10px #474747,
+    5px 5px 10px #1c1c1c ;
+  transition: all;
+  transition-duration: 250ms;
+  margin:10px;
+  font-size: 15px;
+}
+
+button-container{
+  display:flex;
+  justify-content:center;
+ align-items: center;
+ }
+
+button:hover{
+  color:#dbdbdb;
+box-shadow:-1px -1px 5px #474747,
+  1px 1px 5px #1c1c1c,
+  inset -2px -2px 5px #474747,
+  inset 2px 2px 5px #1c1c1c  ;
+  }
+
+  /* input bar style*/
+
+
+
+
+
+
+
+
+
+
+
+  /*text style*/
+h2{
+color:#dbdbdb;
+
+}
+
+/*display*/
+
+.Leon{
+
+  display:none;
+}
+
+.Ada{
+  display:none;
+}
+.Sherry{
+  display:none;
+}
+
+.Piers{
+  display:none;
+}
+
+.Chris{
+  display:none;
+}
+
+.Helena{
+  display:none;
+}
+
+.Jake{
+
+  display:none;
+}
+
+.Hunk{
+  display:none;
+}
+.char{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+  /*alignment & distance*/
+.heading{
+
+  margin: auto;
+  width: 50%;
+  color:#dbdbdb;
+  padding: 10px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  }
+
+
+
+
+  .all{
+display:flex;
+justify-content:center;
+flex-direction:column;
+margin: auto;
+width: 50%;
+
+padding: 10px;
+
+
+  }
+
+  .submit{
+margin:50px;
+  }
+
+.rslts{
+
+  margin: auto;
+  width: 50%;
+  color:#dbdbdb;
+  padding: 10px;
+  text-align:center;
+  }
+
+
+
+  /*body*/
+
+  body{
+ background: #363636;
+  }
+
+h3{
+color:#dbdbdb;
+  }
+input{
+
+  padding: 10px;
+   border-radius:10px;
+   border-style:none;
+}
+
+  
