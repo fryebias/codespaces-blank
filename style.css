@@ -45,6 +45,7 @@ box-shadow:-1px -1px 5px #474747,
   /*text style*/
 h2{
 color:#dbdbdb;
+font-size:20px;
 
 }
 
@@ -83,14 +84,14 @@ color:#dbdbdb;
   display:none;
 }
 .char{
-  margin: auto;
+  
   width: 50%;
   padding: 10px;
 }
   /*alignment & distance*/
 .heading{
 
-  margin: auto;
+ 
   width: 50%;
   color:#dbdbdb;
   padding: 10px;
@@ -102,17 +103,7 @@ color:#dbdbdb;
 
 
 
-  .all{
-display:flex;
-justify-content:center;
-flex-direction:column;
-margin: auto;
-width: 50%;
 
-padding: 10px;
-
-
-  }
 
   .submit{
 margin:50px;
@@ -120,7 +111,7 @@ margin:50px;
 
 .rslts{
 
-  margin: auto;
+  
   width: 50%;
   color:#dbdbdb;
   padding: 10px;
